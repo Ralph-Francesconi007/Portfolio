@@ -241,12 +241,8 @@ a:focus {
   align-items: center;
   flex-direction: column;
   display: flex;
-}
-
-.skills-h1 {
-  font-size: 40px;
-  font-family: 'Pattaya', sans-serif;
-  color: #054950;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .content-slider {
